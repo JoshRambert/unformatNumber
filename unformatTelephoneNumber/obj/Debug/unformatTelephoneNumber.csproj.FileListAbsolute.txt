@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\bin\Debug\unformatTelephoneNumber.exe.config
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\bin\Debug\unformatTelephoneNumber.exe
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\bin\Debug\unformatTelephoneNumber.pdb
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\obj\Debug\unformatTelephoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\obj\Debug\unformatTelephoneNumber.Form1.resources
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\obj\Debug\unformatTelephoneNumber.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\obj\Debug\unformatTelephoneNumber.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\obj\Debug\unformatTelephoneNumber.exe
+C:\Users\Joshua\Desktop\C#\unformatTelephoneNumber\unformatTelephoneNumber\obj\Debug\unformatTelephoneNumber.pdb
